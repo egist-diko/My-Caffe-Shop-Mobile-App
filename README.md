@@ -1,16 +1,8 @@
-# dev_app
+# My-Caffe-Shop-Mobile-App
 
-A new Flutter project.
+A flutter app with static pages from this figma:
+[a link](https://www.figma.com/design/XdmyPuaYFNrgdpUybtLJC9/My-Coffee-Shop-Mobile-App-UI?node-id=1-335&p=f&t=7kaD7SU9lutZzSZ9-0)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+All pages were integrated according to the schema following Pixel perfect design.
+Clean architecture principles and design patterns were followed
+The external libraries used were Providers for global state management and flutter_svg to import svgs into the project
